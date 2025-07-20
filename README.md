@@ -1,7 +1,7 @@
 # IQsitorium
 
 > *"In the labyrinth of cognition, the measure of one's intellect lies not merely in knowledge, but in the alacrity of thought, the elegance of logic, and the symmetry of reasoning."*  
-> — A Modern Digital Sage (aka IQsitorium App)
+> - A Modern Digital Sage (aka IQsitorium App)
 
 ## Live Demo
 
