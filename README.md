@@ -9,7 +9,7 @@ Check out the live app here: [IQsitorium](https://iqsitorium.onrender.com/)
 
 ## Introduction
 
-This humble digital artefact — a Flask-based web application — endeavours to serve as a mirror to the human intellect. Designed with minimalist elegance and maximal pedagogical purpose, it invites users to engage in a brief but revealing inquisition into their reasoning faculties.
+This humble digital artefact - a Flask-based web application - endeavours to serve as a mirror to the human intellect. Designed with minimalist elegance and maximal pedagogical purpose, it invites users to engage in a brief but revealing inquisition into their reasoning faculties.
 
 By presenting a series of logically sequenced multiple-choice interrogatives, the application aspires not merely to *test* intelligence, but to celebrate it. Whether you're a fledgling logician or a cerebrally-inclined dilettante, this app has something to tickle your grey cells.
 
@@ -79,7 +79,7 @@ Navigate to http://127.0.0.1:5000/ in your browser of choice and bask in cogniti
 
 # Why This App?
 
-In an age where virality eclipses virtue, this app seeks to reverse the trend — offering substance amidst superficiality, and a moment of metacognition in an otherwise mindless scroll.
+In an age where virality eclipses virtue, this app seeks to reverse the trend - offering substance amidst superficiality, and a moment of metacognition in an otherwise mindless scroll.
 
 Whether you’re a data scientist, an educator, or an introspective wanderer of thought, this app can be repurposed, expanded, or reimagined to suit your noble ends.
 
