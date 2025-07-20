@@ -3,6 +3,10 @@
 > *"In the labyrinth of cognition, the measure of one's intellect lies not merely in knowledge, but in the alacrity of thought, the elegance of logic, and the symmetry of reasoning."*  
 > — A Modern Digital Sage (aka IQsitorium App)
 
+## Live Demo
+
+Check out the live app here: [IQsitorium](https://iqsitorium.onrender.com/) 
+
 ## Introduction
 
 This humble digital artefact — a Flask-based web application — endeavours to serve as a mirror to the human intellect. Designed with minimalist elegance and maximal pedagogical purpose, it invites users to engage in a brief but revealing inquisition into their reasoning faculties.
