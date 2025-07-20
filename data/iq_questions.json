@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What comes next in the sequence: 1, 4, 9, 16, ?",
+    "options": ["20", "25", "24", "36"],
+    "answer": "25"
+  },
+  {
+    "question": "Which number is the odd one out: 3, 5, 7, 9, 11?",
+    "options": ["3", "5", "7", "9"],
+    "answer": "9"
+  },
+  {
+    "question": "What is the missing number: 2, 6, 12, 20, ?",
+    "options": ["30", "24", "28", "32"],
+    "answer": "30"
+  },
+  {
+    "question": "If some cats are dogs and some dogs are fish, can some cats be fish?",
+    "options": ["Yes", "No", "Maybe", "Cannot be determined"],
+    "answer": "Cannot be determined"
+  },
+  {
+    "question": "Find the next in series: A, C, F, J, O, ?",
+    "options": ["S", "U", "V", "W"],
+    "answer": "U"
+  },
+  {
+    "question": "Which shape is different from the rest: Circle, Triangle, Rectangle, Sphere?",
+    "options": ["Circle", "Triangle", "Rectangle", "Sphere"],
+    "answer": "Sphere"
+  },
+  {
+    "question": "Choose the word that is least like the others: Inch, Kilogram, Centimeter, Yard",
+    "options": ["Inch", "Kilogram", "Centimeter", "Yard"],
+    "answer": "Kilogram"
+  },
+  {
+    "question": "If all Bloops are Razzies and all Razzies are Lazzies, then are all Bloops definitely Lazzies?",
+    "options": ["Yes", "No", "Maybe", "Cannot be determined"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Which number logically follows this series: 4, 6, 9, 6, 14, 6, ?",
+    "options": ["6", "19", "20", "21"],
+    "answer": "19"
+  },
+  {
+    "question": "Which of the following words is the odd one out: Book, Pen, Pencil, Paper, Eraser?",
+    "options": ["Book", "Pen", "Pencil", "Paper"],
+    "answer": "Book"
+  },
+  {
+    "question": "What is the cube root of 64?",
+    "options": ["4", "8", "6", "3"],
+    "answer": "4"
+  },
+  {
+    "question": "If a triangle has angles 90°, 30°, and ?, what is the missing angle?",
+    "options": ["45°", "60°", "30°", "90°"],
+    "answer": "60°"
+  },
+  {
+    "question": "Which number is a prime: 21, 33, 37, 49?",
+    "options": ["21", "33", "37", "49"],
+    "answer": "37"
+  },
+  {
+    "question": "What comes next: 31, 28, 31, 30, 31, 30, ?",
+    "options": ["28", "31", "29", "32"],
+    "answer": "31"
+  },
+  {
+    "question": "If you rearrange the letters 'CIFAIPC', you get the name of a:",
+    "options": ["City", "Animal", "Ocean", "Country"],
+    "answer": "Pacific"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "Which day comes next: Monday, Thursday, Sunday, Wednesday, ?",
+    "options": ["Saturday", "Tuesday", "Friday", "Monday"],
+    "answer": "Saturday"
+  },
+  {
+    "question": "What is the missing number: 1, 1, 2, 3, 5, 8, ?",
+    "options": ["10", "11", "13", "14"],
+    "answer": "13"
+  },
+  {
+    "question": "How many degrees are in a right angle?",
+    "options": ["90", "180", "60", "45"],
+    "answer": "90"
+  },
+  {
+    "question": "What comes next in the pattern: RED, ORANGE, YELLOW, GREEN, ?",
+    "options": ["BLUE", "VIOLET", "PURPLE", "PINK"],
+    "answer": "BLUE"
+  },
+  {
+    "question": "If you multiply any number by 0, you get?",
+    "options": ["1", "Same number", "Infinity", "0"],
+    "answer": "0"
+  },
+  {
+    "question": "Which is the lightest: Iron, Cotton, Wood, Water (equal volume)?",
+    "options": ["Iron", "Cotton", "Wood", "Water"],
+    "answer": "Cotton"
+  },
+  {
+    "question": "What comes next: 2, 3, 5, 8, 12, ?",
+    "options": ["16", "17", "18", "19"],
+    "answer": "17"
+  },
+  {
+    "question": "Which letter comes next: Z, X, V, T, ?",
+    "options": ["S", "Q", "R", "P"],
+    "answer": "R"
+  },
+  {
+    "question": "Which of the following is not a mammal: Whale, Bat, Penguin, Human?",
+    "options": ["Whale", "Bat", "Penguin", "Human"],
+    "answer": "Penguin"
+  },
+  {
+    "question": "Which number is missing: 81, 64, 49, ?, 25",
+    "options": ["36", "42", "32", "40"],
+    "answer": "36"
+  },
+  {
+    "question": "Which number is the odd one out: 2, 4, 8, 16, 31, 64?",
+    "options": ["2", "8", "31", "64"],
+    "answer": "31"
+  },
+  {
+    "question": "How many minutes are there in 3 hours?",
+    "options": ["60", "90", "120", "180"],
+    "answer": "180"
+  },
+  {
+    "question": "Find the odd one out: Apple, Banana, Mango, Carrot",
+    "options": ["Apple", "Banana", "Mango", "Carrot"],
+    "answer": "Carrot"
+  },
+  {
+    "question": "Which number does not belong: 11, 13, 17, 19, 21, 23?",
+    "options": ["13", "17", "21", "23"],
+    "answer": "21"
+  },
+  {
+    "question": "A pentagon has how many sides?",
+    "options": ["4", "5", "6", "8"],
+    "answer": "5"
+  },
+  {
+    "question": "What comes next: A, D, G, J, ?",
+    "options": ["K", "L", "M", "M"],
+    "answer": "M"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which number comes next: 5, 10, 20, 40, ?",
+    "options": ["50", "60", "70", "80"],
+    "answer": "80"
+  },
+  {
+    "question": "Which of the following is not a primary color?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answer": "Green"
+  },
+  {
+    "question": "How many hours are there in 2 days?",
+    "options": ["12", "24", "36", "48"],
+    "answer": "48"
+  },
+  {
+    "question": "Which number is divisible by 3: 15, 22, 44, 57?",
+    "options": ["22", "15", "44", "57"],
+    "answer": "15"
+  },
+  {
+    "question": "What comes next: 10, 20, 40, 80, ?",
+    "options": ["90", "100", "120", "160"],
+    "answer": "160"
+  },
+  {
+    "question": "Choose the word most similar to 'Trustworthy':",
+    "options": ["Resolute", "Tenacious", "Reliable", "Candid"],
+    "answer": "Reliable"
+  },
+  {
+    "question": "Which animal is known to have 3 hearts?",
+    "options": ["Elephant", "Octopus", "Shark", "Whale"],
+    "answer": "Octopus"
+  },
+  {
+    "question": "Which is not a type of triangle?",
+    "options": ["Scalene", "Equilateral", "Isosceles", "Perpendicular"],
+    "answer": "Perpendicular"
+  },
+  {
+    "question": "What is the square of 12?",
+    "options": ["124", "144", "134", "142"],
+    "answer": "144"
+  },
+  {
+    "question": "Which of the following is an even number?",
+    "options": ["3", "7", "9", "14"],
+    "answer": "14"
+  },
+  {
+    "question": "Which month has the fewest days?",
+    "options": ["February", "June", "April", "September"],
+    "answer": "February"
+  },
+  {
+    "question": "Which word is the opposite of 'Artificial'?",
+    "options": ["Synthetic", "Natural", "Man-made", "Plastic"],
+    "answer": "Natural"
+  },
+  {
+    "question": "What comes next: 1, 2, 4, 8, 16, ?",
+    "options": ["24", "30", "32", "36"],
+    "answer": "32"
+  },
+  {
+    "question": "Which shape has no corners?",
+    "options": ["Rectangle", "Triangle", "Circle", "Square"],
+    "answer": "Circle"
+  },
+  {
+    "question": "Which of these is NOT a direction?",
+    "options": ["North", "South", "Up", "Square"],
+    "answer": "Square"
+  },
+  {
+    "question": "How many vowels are in the English alphabet?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "5"
+  },
+  {
+    "question": "Find the odd number: 2, 4, 6, 8, 10, 13",
+    "options": ["2", "6", "10", "13"],
+    "answer": "13"
+  }
+]
